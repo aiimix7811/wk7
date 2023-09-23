@@ -1,6 +1,6 @@
 """
 # -*- coding:utf-8 -*- 
-  cron: 11 35 14 * * *
+  cron: 11 35 0 * * *
   new Env('悟空B本05'); 
 """
 import os
